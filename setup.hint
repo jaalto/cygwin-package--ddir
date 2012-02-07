@@ -1,0 +1,7 @@
+sdesc: "Display hierarchical directory tree"
+ldesc: "Display an indented directory tree using ASCII graphical
+characters to represent the hierarchical structure. The directories to
+include or exclude can be specified with command line options. Ddir is
+a Perl implementation of the tree(1) program."
+category: Perl Utils
+requires: perl

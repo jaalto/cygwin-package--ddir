@@ -1,0 +1,2 @@
+tag1: ddir
+  http://packages.debian.org/unstable/ddir pregexp:orig.tar.gz file:ddir_2010.0321+git1685e72.orig.tar.gz new: x:
