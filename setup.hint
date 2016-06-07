@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Display hierarchical directory tree"
 ldesc: "Display an indented directory tree using ASCII graphical
 characters to represent the hierarchical structure. The directories to
